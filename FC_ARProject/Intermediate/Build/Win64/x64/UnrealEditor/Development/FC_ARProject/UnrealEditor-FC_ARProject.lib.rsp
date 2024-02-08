@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-FC_ARProject.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\SHS\Documents\FC_ARProject\FC_ARProject\Intermediate\Build\Win64\x64\FC_ARProjectEditor\Development\Engine\SharedPCH.Engine.Cpp20.h.obj"
+"C:\Users\SHS\Documents\FC_ARProject\FC_ARProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\FC_ARProject\FC_ARProject.cpp.obj"
+"C:\Users\SHS\Documents\FC_ARProject\FC_ARProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\FC_ARProject\Default.rc2.res"
+/OUT:"C:\Users\SHS\Documents\FC_ARProject\FC_ARProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\FC_ARProject\UnrealEditor-FC_ARProject.lib"

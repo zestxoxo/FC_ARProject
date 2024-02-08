@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\FC_ARProject.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\FC_ARProject.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\FC_ARProjectEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\FC_ARProject">
+      <UniqueIdentifier>{5B25FF93-63A6-36E7-8363-DF786DEF438E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\FC_ARProject\FC_ARProject.Build.cs">
+      <Filter>Source\FC_ARProject</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\FC_ARProject\FC_ARProject.cpp">
+      <Filter>Source\FC_ARProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FC_ARProject\FC_ARProject.h">
+      <Filter>Source\FC_ARProject</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

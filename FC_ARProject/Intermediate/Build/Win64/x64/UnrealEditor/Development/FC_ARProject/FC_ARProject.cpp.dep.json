@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\shs\\documents\\fc_arproject\\fc_arproject\\source\\fc_arproject\\fc_arproject.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\shs\\documents\\fc_arproject\\fc_arproject\\intermediate\\build\\win64\\x64\\fc_arprojecteditor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\shs\\documents\\fc_arproject\\fc_arproject\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\fc_arproject\\definitions.fc_arproject.h",
+            "c:\\users\\shs\\documents\\fc_arproject\\fc_arproject\\source\\fc_arproject\\fc_arproject.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
